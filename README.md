@@ -8,7 +8,7 @@ Técnica Informática e Web Developer focada em criar soluções web eficientes,
 - **CMS & Plataformas:** WordPress
 
 ## 🚀 Projetos em Destaque
-- 📁 **[TécnicoCRM]**: Um sistema completo de gestão de leads, equipas e serviços técnicos.
+- 📁 **[TécnicoCRM]**: Um sistema completo de gestão de leads, equipas e serviços técnicos. - https://github.com/biancaloureiro0004-web/crm-sistema
 
 ## 📫 Como me encontrar:
 - 💼 LinkedIn: https://www.linkedin.com/in/-bianca-loureiro/
