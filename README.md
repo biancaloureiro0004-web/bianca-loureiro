@@ -8,8 +8,7 @@ Técnica Informática e Web Developer focada em criar soluções web eficientes,
 - **CMS & Plataformas:** WordPress
 
 ## 🚀 Projetos em Destaque
-- 📁 **[Nome do Projeto 1]**: Descrição curta do projeto (ex: Sistema CRM desenvolvido em PHP e MySQL).
-- 📁 **[Nome do Projeto 2]**: Descrição curta (ex: Landing page responsiva em React).
+- 📁 **[TécnicoCRM]**: Um sistema completo de gestão de leads, equipas e serviços técnicos.
 
 ## 📫 Como me encontrar:
 - 💼 LinkedIn: https://www.linkedin.com/in/-bianca-loureiro/
