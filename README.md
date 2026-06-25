@@ -8,7 +8,7 @@ Técnica Informática e Web Developer focada em criar soluções web eficientes,
 - **CMS & Plataformas:** WordPress
 
 ## 🚀 Projetos em Destaque
-- 📁 **[TécnicoCRM]**: Um sistema completo de gestão de leads, equipas e serviços técnicos. - https://github.com/biancaloureiro0004-web/crm-sistema
+- 📁 **[TécnicoCRM](https://github.com/biancaloureiro0004-web/crm-sistema)**: Um sistema completo de gestão de leads, equipas e serviços técnicos.
 - * 📁 **[Nova Agency](https://github.com/biancaloureiro0004-web/nova-agency):** Um website institucional premium com suporte nativo a Dark/Light Mode e foco em UI/UX.
 
 ## 📫 Como me encontrar:
